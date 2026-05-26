@@ -1,0 +1,501 @@
+id_venda,data_pedido,cliente_nome,cliente_email,produto_categoria,produto_preco,quantidade
+1,2024-01-15,João Silva,joao@email.com,Eletrônicos,"R$ 1.299,90",1
+2,15/02/2024,Maria Santos,maria@email.com,Roupas,"R$ 89,90",2
+3,2024-Mar-03,Carlos Lima,,Eletrônicos,"R$ 2.499,00",-1
+4,2024.01.20,Ana Paula,ana@email.com,Livros,"59.90",1
+5,20/01/2024,João Silva,joao@email.com,Casa,"R$ 149,90",1
+6,2024-02-28,Roberto Alves,roberto@email.com,Esportes,"R$ 299,90",-2
+7,2024/03/10,Fernanda Lima,fernanda@email.com,Roupas,"R$ 199,90",1
+8,10-03-2024,Rafael Souza,rafael@email.com,Eletrônicos,"R$ 899",1
+9,2024-01-25,Carla Dias,carla@email.com,Beleza,"R$ 49,90",3
+10,31/02/2024,Pedro Costa,pedro@email.com,Alimentos,"R$ 29,90",1
+11,2024-02-10,Amanda Rocha,amanda@email.com,Eletrônicos,"R$ 3.499,00",1
+12,2024/03/15,Lucas Mendes,lucas@email.com,Moveis,"R$ 799,90",-1
+13,15-04-2024,Juliana Lima,juliana@email.com,Roupas,"R$ 149,90",2
+14,2024.03.22,Bruno Souza,bruno@email.com,Esportes,"R$ 59,90",1
+15,2024-Apr-01,Patricia Gomes,patricia@email.com,Beleza,"R$ 199,90",-3
+16,01/04/2024,Gustavo Nunes,gustavo@email.com,Alimentos,"R$ 39,90",2
+17,2024-02-14,Vanessa Oliveira,vanessa@email.com,Livros,"R$ 79,90",1
+18,2024/05/20,Ricardo Santos,ricardo@email.com,Eletrônicos,"R$ 1.999,00",1
+19,20-05-2024,Mariana Costa,,Casa,"R$ 399,90",-1
+20,2024.06.01,Thiago Alves,thiago@email.com,Roupas,"R$ 249,90",1
+21,2024-Jun-10,Letícia Ferreira,leticia@email.com,Esportes,"R$ 129,90",2
+22,10/06/2024,Felipe Araujo,felipe@email.com,Beleza,"R$ 89,90",1
+23,2024-07-15,Camila Ribeiro,camila@email.com,Moveis,"R$ 1.499,00",-1
+24,2024/08/01,Diego Martins,",Eletrônicos,"R$ 599,90",1
+25,01-08-2024,Renata Cardoso,renata@email.com,Livros,"R$ 49,90",3
+26,2024.09.10,Paulo Siqueira,paulo@email.com,Alimentos,"R$ 99,90",1
+27,2024-Sep-20,Tatiana Rocha,tatiana@email.com,Roupas,"R$ 179,90",-2
+28,20/09/2024,André Lima,andre@email.com,Casa,"R$ 89,90",1
+29,2024-10-05,Bruna Dias,bruna@email.com,Eletrônicos,"R$ 2.199,00",1
+30,2024/11/11,César Mello,cesar@email.com,Esportes,"R$ 399,90",1
+31,11-11-2024,Daniela Pinto,daniela@email.com,Beleza,"R$ 149,90",-1
+32,2024.12.25,Fábio Cunha,fabio@email.com,Moveis,"R$ 2.999,00",1
+33,2024-Dec-30,Gabriela Nogueira,gabriela@email.com,Roupas,"R$ 99,90",2
+34,30/12/2024,Heitor Barros,heitor@email.com,Livros,"R$ 129,90",1
+35,2024-01-08,Igor Campos,igor@email.com,Alimentos,"R$ 49,90",-1
+36,2024/02/22,Jéssica Monteiro,jessica@email.com,Eletrônicos,"R$ 899,90",1
+37,22-02-2024,Karen Figueiredo,karen@email.com,Casa,"R$ 149,90",2
+38,2024.03.14,Leonardo Guerra,leonardo@email.com,Esportes,"R$ 79,90",1
+39,2024-Mar-25,Michele Assis,,Beleza,"R$ 299,90",-3
+40,25/03/2024,Natália Porto,natalia@email.com,Moveis,"R$ 599,90",1
+41,2024-04-09,Otávio Sales,otavio@email.com,Roupas,"R$ 219,90",1
+42,2024/05/05,Paula Vargas,paula@email.com,Livros,"R$ 39,90",2
+43,05-05-2024,Quintino Dias,quintino@email.com,Alimentos,"R$ 69,90",-1
+44,2024.06.19,Raquel Farias,raquel@email.com,Eletrônicos,"R$ 3.999,00",1
+45,2024-Jun-28,Sabrina Maia,sabrina@email.com,Casa,"R$ 249,90",1
+46,28/06/2024,Tomás Brito,tomas@email.com,Esportes,"R$ 169,90",-2
+47,2024-07-12,Ursula Cruz,ursula@email.com,Beleza,"R$ 79,90",1
+48,2024/08/08,Valter Neves,valter@email.com,Moveis,"R$ 1.199,00",1
+49,08-08-2024,Wilson Amaral,wilson@email.com,Roupas,"R$ 139,90",3
+50,2024.09.30,Ximenes Lopes,,Alimentos,"R$ 29,90",1
+51,2024-10-18,Yara Muniz,yara@email.com,Eletrônicos,"R$ 549,90",-1
+52,2024/11/22,Zuleide Costa,zuleide@email.com,Livros,"R$ 89,90",1
+53,22-11-2024,Adriana Nascimento,adriana@email.com,Casa,"R$ 399,90",2
+54,2024.12.03,Bernardo Leal,bernardo@email.com,Esportes,"R$ 119,90",1
+55,2024-Dec-12,Cláudia Rangel,claudia@email.com,Roupas,"R$ 299,90",-1
+56,12/12/2024,David Andrade,david@email.com,Beleza,"R$ 49,90",4
+57,2024-01-19,Eliane Fontes,eliane@email.com,Moveis,"R$ 899,00",1
+58,2024/02/29,Fernando Pires,fernando@email.com,Alimentos,"R$ 59,90",-2
+59,29-02-2024,Gisele Moura,gisele@email.com,Eletrônicos,"R$ 1.799,00",1
+60,2024.03.07,Henrique Campos,henrique@email.com,Livros,"R$ 119,90",1
+61,2024-Mar-17,Isabela Freitas,isabela@email.com,Casa,"R$ 199,90",2
+62,17/03/2024,Jairo Gonçalves,jairo@email.com,Esportes,"R$ 89,90",1
+63,2024-04-23,Kátia Bastos,katia@email.com,Roupas,"R$ 349,90",-1
+64,2024/05/14,Larissa Tavares,larissa@email.com,Beleza,"R$ 159,90",1
+65,14-05-2024,Marcelo Pena,marcelo@email.com,Moveis,"R$ 2.499,00",1
+66,2024.06.11,Nádia Lins,nadia@email.com,Alimentos,"R$ 79,90",3
+67,2024-Jun-21,Olga Maia,olga@email.com,Eletrônicos,"R$ 699,90",-1
+68,21/06/2024,Paulo Rosa,paulo@email.com,Livros,"R$ 49,90",2
+69,2024-07-03,Queren Hapuque,queren@email.com,Casa,"R$ 129,90",1
+70,2024/08/19,Rogério Neves,rogerio@email.com,Esportes,"R$ 279,90",1
+71,19-08-2024,Sônia Viana,sonia@email.com,Roupas,"R$ 89,90",-2
+72,2024.09.16,Telma Rodrigues,telma@email.com,Beleza,"R$ 199,90",1
+73,2024-Sep-26,Ubiraci Pontes,ubi@email.com,Moveis,"R$ 499,90",1
+74,26/09/2024,Valéria Luz,valeria@email.com,Alimentos,"R$ 39,90",4
+75,2024-10-29,Wagner Silva,wagner@email.com,Eletrônicos,"R$ 2.899,00",-1
+76,2024/11/15,Xuxa Meneghel,xuxa@email.com,Livros,"R$ 79,90",1
+77,15-11-2024,Yuri Almeida,yuri@email.com,Casa,"R$ 319,90",2
+78,2024.12.01,Zeca Pagodinho,,Esportes,"R$ 149,90",1
+79,2024-12-31,Adilson Batista,adilson@email.com,Roupas,"R$ 399,90",-3
+80,2024/01/07,Bianca Rocha,bianca@email.com,Beleza,"R$ 69,90",1
+81,07-01-2024,Cristiano Ronaldo,cristiano@email.com,Moveis,"R$ 1.999,00",1
+82,2024.02.18,Deborah Secco,deborah@email.com,Alimentos,"R$ 49,90",2
+83,2024-Feb-27,Edson Arantes,edson@email.com,Eletrônicos,"R$ 4.999,00",-1
+84,27/02/2024,Fatima Bernardes,fatima@email.com,Livros,"R$ 129,90",1
+85,2024-03-12,Glória Pires,gloria@email.com,Casa,"R$ 89,90",3
+86,2024/04/04,Hugo Gloss,hugo@email.com,Esportes,"R$ 229,90",1
+87,04-04-2024,Ivete Sangalo,ivete@email.com,Roupas,"R$ 179,90",-2
+88,2024.05.22,Jô Soares,jo@email.com,Beleza,"R$ 99,90",1
+89,2024-May-31,Luciano Huck,luciano@email.com,Moveis,"R$ 749,90",1
+90,31/05/2024,Malu Mader,malu@email.com,Alimentos,"R$ 59,90",2
+91,2024-06-16,Neymar Junior,neymar@email.com,Eletrônicos,"R$ 899,90",-1
+92,2024/07/21,Oscar Schmidt,oscar@email.com,Livros,"R$ 39,90",1
+93,21-07-2024,Paolla Oliveira,paolla@email.com,Casa,"R$ 499,90",1
+94,2024.08.09,Queiroz Filho,queiroz@email.com,Esportes,"R$ 89,90",4
+95,2024-Aug-18,Rita Lee,,Roupas,"R$ 249,90",-1
+96,18/08/2024,Silvio Santos,silvio@email.com,Beleza,"R$ 129,90",1
+97,2024-09-24,Tarcísio Meira,tarcisio@email.com,Moveis,"R$ 1.299,00",1
+98,2024/10/10,Udo Kier,udo@email.com,Alimentos,"R$ 69,90",2
+99,10-10-2024,Vitor Belfort,vitor@email.com,Eletrônicos,"R$ 3.199,00",-1
+100,2024.11.05,Wanessa Camargo,wanessa@email.com,Livros,"R$ 99,90",1
+101,2024-Nov-14,Xanddy Harmonia,xanddy@email.com,Casa,"R$ 199,90",1
+102,14/11/2024,Yonlu,yonlu@email.com,Esportes,"R$ 59,90",-2
+103,2024-12-09,Ziraldo,ziraldo@email.com,Roupas,"R$ 449,90",1
+104,2024/01/30,Amir Klink,amir@email.com,Beleza,"R$ 79,90",3
+105,30-01-2024,Bob Marley,bob@email.com,Moveis,"R$ 899,00",1
+106,2024.02.13,Cazuza,cazuza@email.com,Alimentos,"R$ 29,90",-1
+107,2024-Feb-23,Chico Buarque,chico@email.com,Eletrônicos,"R$ 1.499,00",1
+108,23/02/2024,Dercy Gonçalves,dercy@email.com,Livros,"R$ 149,90",2
+109,2024-03-18,Elis Regina,elis@email.com,Casa,"R$ 329,90",1
+110,2024/04/29,Fábio Porchat,fabio@email.com,Esportes,"R$ 199,90",-1
+111,29-04-2024,Gilberto Gil,gilberto@email.com,Roupas,"R$ 129,90",1
+112,2024.05.06,Hebe Camargo,hebe@email.com,Beleza,"R$ 249,90",2
+113,2024-May-16,Izabel Goulart,izabel@email.com,Moveis,"R$ 1.599,00",1
+114,16/05/2024,Jair Rodrigues,jair@email.com,Alimentos,"R$ 49,90",-3
+115,2024-06-27,Klara Castanho,klara@email.com,Eletrônicos,"R$ 699,90",1
+116,2024/07/02,Lázaro Ramos,lazaro@email.com,Livros,"R$ 59,90",1
+117,02-07-2024,Manoel Gomes,manoel@email.com,Casa,"R$ 149,90",2
+118,2024.08.13,Nelson Rodrigues,nelson@email.com,Esportes,"R$ 89,90",-1
+119,2024-Aug-23,Ondina Vianna,,Roupas,"R$ 299,90",1
+120,23/08/2024,Paulo Freire,paulo@email.com,Beleza,"R$ 69,90",4
+121,2024-09-04,Quitéria Chagas,quiteria@email.com,Moveis,"R$ 2.199,00",1
+122,2024/10/16,Raquel Sheherazade,raquel@email.com,Alimentos,"R$ 39,90",-2
+123,16-10-2024,Roberto Carlos,roberto@email.com,Eletrônicos,"R$ 2.499,00",1
+124,2024.11.19,Salvador Dali,salvador@email.com,Livros,"R$ 89,90",1
+125,2024-Nov-29,Tati Quebra Barraco,tati@email.com,Casa,"R$ 199,90",2
+126,29/11/2024,Ubaldo Neto,ubaldo@email.com,Esportes,"R$ 119,90",-1
+127,2024-12-07,Valentina Bandeira,valentina@email.com,Roupas,"R$ 549,90",1
+128,2024/01/17,Waldemar Valle,waldemar@email.com,Beleza,"R$ 49,90",3
+129,17-01-2024,Xenia Oliveira,xenia@email.com,Moveis,"R$ 699,90",1
+130,2024.02.28,Yolanda Soares,yolanda@email.com,Alimentos,"R$ 79,90",-1
+131,2024-Feb-08,Zé Ramalho,zeramalho@email.com,Eletrônicos,"R$ 899,90",1
+132,08/02/2024,Abelardo Barbosa,abelardo@email.com,Livros,"R$ 129,90",2
+133,2024-03-19,Beth Carvalho,beth@email.com,Casa,"R$ 249,90",1
+134,2024/04/07,Cacá Diegues,caca@email.com,Esportes,"R$ 159,90",-2
+135,07-04-2024,Dilma Rousseff,dilma@email.com,Roupas,"R$ 199,90",1
+136,2024.05.24,Elba Ramalho,elba@email.com,Beleza,"R$ 99,90",4
+137,2024-Jun-04,Fernanda Montenegro,fernanda@email.com,Moveis,"R$ 899,00",1
+138,04/06/2024,Garrincha,garrincha@email.com,Alimentos,"R$ 49,90",-1
+139,2024-07-17,Hildon Rocha,hildon@email.com,Eletrônicos,"R$ 3.299,00",1
+140,2024/08/26,Inês Brasil,ines@email.com,Livros,"R$ 59,90",1
+141,26-08-2024,Jorge Ben,jorge@email.com,Casa,"R$ 179,90",2
+142,2024.09.05,Kaysar Dadour,kaysar@email.com,Esportes,"R$ 89,90",-1
+143,2024-Sep-15,Lilia Cabral,lilia@email.com,Roupas,"R$ 399,90",1
+144,15/09/2024,Marcos Mion,marcos@email.com,Beleza,"R$ 149,90",3
+145,2024-10-27,Nina Rosa,nina@email.com,Moveis,"R$ 1.199,00",1
+146,2024/11/07,Olga Benario,olga@email.com,Alimentos,"R$ 69,90",-2
+147,07-11-2024,Pelé,pele@email.com,Eletrônicos,"R$ 4.499,00",1
+148,2024.12.16,Quinzinho Pinto,quinzinho@email.com,Livros,"R$ 79,90",1
+149,2024-Dec-26,Ramses II,ramses@email.com,Casa,"R$ 299,90",2
+150,26/12/2024,Suzana Vieira,suzana@email.com,Esportes,"R$ 129,90",-1
+151,2024-01-02,Tufi Memet,tufi@email.com,Roupas,"R$ 249,90",1
+152,2024/02/14,Ubiratan Pereira,ubiratan@email.com,Beleza,"R$ 59,90",4
+153,14-02-2024,Valéria Valenssa,valeria@email.com,Moveis,"R$ 799,90",1
+154,2024.03.27,Walt Disney,walt@email.com,Alimentos,"R$ 39,90",-3
+155,2024-Mar-07,Xuxa,xuxa@email.com,Eletrônicos,"R$ 599,90",1
+156,07/03/2024,Yara Cortes,yara@email.com,Livros,"R$ 119,90",1
+157,2024-04-11,Zacarias,zacarias@email.com,Casa,"R$ 449,90",2
+158,2024/05/29,Aracy Balabanian,aracy@email.com,Esportes,"R$ 89,90",-1
+159,29-05-2024,Bernardo Guimarães,bernardo@email.com,Roupas,"R$ 169,90",1
+160,2024.06.08,Cacá Carvalho,caca@email.com,Beleza,"R$ 199,90",1
+161,2024-Jun-18,Danilo Gentili,danilo@email.com,Moveis,"R$ 1.399,00",2
+162,18/06/2024,Edna Lima,edna@email.com,Alimentos,"R$ 49,90",-2
+163,2024-07-29,Floriano Peixoto,floriano@email.com,Eletrônicos,"R$ 1.899,00",1
+164,2024/08/12,Gabriel Pensador,gabriel@email.com,Livros,"R$ 69,90",3
+165,12-08-2024,Hortência Marcari,hortencia@email.com,Casa,"R$ 199,90",1
+166,2024.09.23,Isadora Duncan,isadora@email.com,Esportes,"R$ 149,90",-1
+167,2024-Oct-03,Jackson do Pandeiro,jackson@email.com,Roupas,"R$ 299,90",1
+168,03/10/2024,Kleber Bambam,kleber@email.com,Beleza,"R$ 79,90",4
+169,2024-11-26,Léa Garcia,lea@email.com,Moveis,"R$ 649,90",1
+170,2024/12/14,Mário Lago,mario@email.com,Alimentos,"R$ 59,90",-1
+171,14-12-2024,Nicole Bahls,nicole@email.com,Eletrônicos,"R$ 2.999,00",1
+172,2024.01.09,Orlando Drummond,orlando@email.com,Livros,"R$ 89,90",2
+173,2024-Jan-19,Paulo Autran,paulo@email.com,Casa,"R$ 379,90",1
+174,19/01/2024,Quico Madruga,quico@email.com,Esportes,"R$ 119,90",-2
+175,2024-02-26,Renato Aragão,renato@email.com,Roupas,"R$ 199,90",1
+176,2024/03/01,Sérgio Mallandro,sergio@email.com,Beleza,"R$ 49,90",3
+177,01-03-2024,Tônia Carrero,tonia@email.com,Moveis,"R$ 1.799,00",1
+178,2024.04.14,Ursula Andress,ursula@email.com,Alimentos,"R$ 69,90",-1
+179,2024-Apr-24,Valesca Popozuda,valesca@email.com,Eletrônicos,"R$ 499,90",1
+180,24/04/2024,Wagner Montes,wagner@email.com,Livros,"R$ 129,90",2
+181,2024-05-03,Xênia França,xenia@email.com,Casa,"R$ 149,90",1
+182,2024/06/11,Yeda Crusius,yeda@email.com,Esportes,"R$ 89,90",-2
+183,11-06-2024,Zeca Baleiro,zeca@email.com,Roupas,"R$ 449,90",1
+184,2024.07.22,Alcione Nazaré,alcione@email.com,Beleza,"R$ 99,90",4
+185,2024-Jul-31,Belchior Neto,belchior@email.com,Moveis,"R$ 899,00",1
+186,31/07/2024,Cássia Eller,cassia@email.com,Alimentos,"R$ 39,90",-1
+187,2024-08-04,Dado Dolabella,dado@email.com,Eletrônicos,"R$ 3.599,00",1
+188,2024/09/17,Emicida,emicida@email.com,Livros,"R$ 59,90",1
+189,17-09-2024,Fafá de Belém,fafa@email.com,Casa,"R$ 229,90",3
+190,2024.10.28,Gil do Vigor,gil@email.com,Esportes,"R$ 169,90",-1
+191,2024-Oct-08,Hugo Rafael,hugo@email.com,Roupas,"R$ 129,90",1
+192,08/10/2024,Inácio Lula,inacio@email.com,Beleza,"R$ 199,90",2
+193,2024-11-21,Jô Soares,jo@email.com,Moveis,"R$ 1.099,00",1
+194,2024/12/02,Karina Bacchi,karina@email.com,Alimentos,"R$ 49,90",-2
+195,02-12-2024,Luciana Gimenez,luciana@email.com,Eletrônicos,"R$ 699,90",1
+196,2024.01.13,Marília Gabriela,marilia@email.com,Livros,"R$ 79,90",1
+197,2024-Jan-23,Nando Reis,nando@email.com,Casa,"R$ 319,90",2
+198,23/01/2024,Oswaldo Montenegro,oswaldo@email.com,Esportes,"R$ 89,90",-1
+199,2024-02-05,Patrícia Poeta,patricia@email.com,Roupas,"R$ 349,90",1
+200,2024/03/26,Quércia,quercia@email.com,Beleza,"R$ 59,90",4
+201,2024.04.06,Rafael Cortez,rafael@email.com,Moveis,"R$ 2.499,00",1
+202,2024-May-16,Sandra Annenberg,sandra@email.com,Alimentos,"R$ 69,90",-1
+203,2024-06-20,Tarcísio Freitas,tarcisio@email.com,Eletrônicos,"R$ 1.199,00",1
+204,2024/07/10,Ubaldo Meirelles,ubaldo@email.com,Livros,"R$ 99,90",2
+205,2024.08.29,Valter Hugo Mãe,valter@email.com,Casa,"R$ 149,90",1
+206,2024-Aug-09,Waldick Soriano,waldick@email.com,Esportes,"R$ 129,90",-2
+207,2024-09-19,Xico Sá,xico@email.com,Roupas,"R$ 249,90",1
+208,2024/10/31,Yuri Lima,yuri@email.com,Beleza,"R$ 89,90",3
+209,2024.11.11,Zilda Arns,zilda@email.com,Moveis,"R$ 799,90",1
+210,2024-Dec-22,Adriane Galisteu,adriane@email.com,Alimentos,"R$ 49,90",-1
+211,2024-01-03,Arnaldo Jabor,arnaldo@email.com,Eletrônicos,"R$ 2.199,00",1
+212,2024/02/19,Bruno Gagliasso,bruno@email.com,Livros,"R$ 59,90",1
+213,2024.03.08,Carlinhos Brown,carlinhos@email.com,Casa,"R$ 399,90",2
+214,2024-Mar-18,Deborah Secco,deborah@email.com,Esportes,"R$ 89,90",-1
+215,2024-04-28,Eduardo Sterblitch,eduardo@email.com,Roupas,"R$ 179,90",1
+216,2024/05/09,Felipe Neto,felipe@email.com,Beleza,"R$ 149,90",4
+217,2024.06.30,Geraldo Alckmin,geraldo@email.com,Moveis,"R$ 949,00",1
+218,2024-Jun-10,Hélio Castroneves,helio@email.com,Alimentos,"R$ 39,90",-2
+219,2024-07-01,Isabel Fillardis,isabel@email.com,Eletrônicos,"R$ 899,90",1
+220,2024/08/21,Jair Bolsonaro,jair@email.com,Livros,"R$ 129,90",1
+221,2024.09.02,Kelly Key,kelly@email.com,Casa,"R$ 199,90",3
+222,2024-Sep-12,Leandro Hassum,leandro@email.com,Esportes,"R$ 79,90",-1
+223,2024-10-22,Maisa Silva,maisa@email.com,Roupas,"R$ 299,90",1
+224,2024/11/03,Nívea Stelmann,nivea@email.com,Beleza,"R$ 69,90",2
+225,2024.12.13,Orlando Silva,orlando@email.com,Moveis,"R$ 1.499,00",1
+226,2024-Dec-23,Patrícia Abravanel,patricia@email.com,Alimentos,"R$ 59,90",-1
+227,2024-01-14,Quentin Tarantino,quentin@email.com,Eletrônicos,"R$ 3.799,00",1
+228,2024/02/25,Ramón Valdés,ramon@email.com,Livros,"R$ 89,90",1
+229,2024.03.15,Selton Mello,selton@email.com,Casa,"R$ 279,90",2
+230,2024-Mar-05,Teresa Cristina,teresa@email.com,Esportes,"R$ 119,90",-2
+231,2024-04-24,Ulysses Guimarães,ulysses@email.com,Roupas,"R$ 219,90",1
+232,2024/05/07,Violeta Arraes,violeta@email.com,Beleza,"R$ 99,90",3
+233,2024.06.18,Wesley Safadão,wesley@email.com,Moveis,"R$ 699,90",1
+234,2024-Jun-28,Xênia, Alimentos,"R$ 49,90",-1
+235,2024-07-08,Yasmin Brunet,yasmin@email.com,Eletrônicos,"R$ 499,90",1
+236,2024/08/29,Zé Felipe,ze@email.com,Livros,"R$ 79,90",2
+237,2024.09.09,Anitta,anitta@email.com,Casa,"R$ 449,90",1
+238,2024-Sep-19,Boni Neto,boni@email.com,Esportes,"R$ 89,90",-1
+239,2024-10-29,Cacau Protásio,cacau@email.com,Roupas,"R$ 159,90",1
+240,2024/11/01,Dira Paes,dira@email.com,Beleza,"R$ 199,90",4
+241,2024.12.11,Emílio Santiago,emilio@email.com,Moveis,"R$ 1.199,00",1
+242,2024-Dec-21,Fábio Assunção,fabio@email.com,Alimentos,"R$ 39,90",-2
+243,2024-01-31,Glória Maria,gloria@email.com,Eletrônicos,"R$ 2.899,00",1
+244,2024/02/12,Humberto Martins,humberto@email.com,Livros,"R$ 59,90",1
+245,2024.03.22,Irene Ravache,irene@email.com,Casa,"R$ 189,90",3
+246,2024-Apr-02,João Miguel,joao@email.com,Esportes,"R$ 149,90",-1
+247,2024-05-13,Lázaro Ramos,lazaro@email.com,Roupas,"R$ 349,90",1
+248,2024/06/24,Maria Casadevall,maria@email.com,Beleza,"R$ 79,90",2
+249,2024.07.05,Nelson Freitas,nelson@email.com,Moveis,"R$ 899,00",1
+250,2024-Jul-15,Olívia Torres,olivia@email.com,Alimentos,"R$ 69,90",-1
+251,2024-08-25,Paulo Betti,paulo@email.com,Eletrônicos,"R$ 1.599,00",1
+252,2024/09/16,Quézia Souza,quezia@email.com,Livros,"R$ 99,90",1
+253,2024.10.06,Renata Sorrah,renata@email.com,Casa,"R$ 249,90",2
+254,2024-Oct-16,Sérgio Guizé,sergio@email.com,Esportes,"R$ 89,90",-2
+255,2024-11-26,Tainá Müller,taina@email.com,Roupas,"R$ 199,90",1
+256,2024/12/08,Ubiratan Bizarro,ubiratan@email.com,Beleza,"R$ 149,90",3
+257,2024.01.18,Valdineia Sorriso,valdineia@email.com,Moveis,"R$ 1.799,00",1
+258,2024-Jan-28,Wanderléa,wanderlea@email.com,Alimentos,"R$ 49,90",-1
+259,2024-02-09,Xande de Pilares,xande@email.com,Eletrônicos,"R$ 699,90",1
+260,2024/03/20,Yvonne Lara,yvonne@email.com,Livros,"R$ 79,90",2
+261,2024.04.30,Zezé Di Camargo,zeze@email.com,Casa,"R$ 329,90",1
+262,2024-Apr-10,Adriana Esteves,adriana@email.com,Esportes,"R$ 119,90",-1
+263,2024-05-21,Alexandre Nero,alexandre@email.com,Roupas,"R$ 279,90",1
+264,2024/06/02,Amanda Acosta,amanda@email.com,Beleza,"R$ 69,90",4
+265,2024.07.13,Antonio Fagundes,antonio@email.com,Moveis,"R$ 649,90",1
+266,2024-Jul-23,Bárbara Paz,barbara@email.com,Alimentos,"R$ 59,90",-2
+267,2024-08-03,Caio Blat,caio@email.com,Eletrônicos,"R$ 2.199,00",1
+268,2024/09/14,Cláudia Abreu,claudia@email.com,Livros,"R$ 89,90",1
+269,2024.10.25,Danton Mello,danton@email.com,Casa,"R$ 199,90",3
+270,2024-Oct-05,Eriberto Leão,eriberto@email.com,Esportes,"R$ 99,90",-1
+271,2024-11-15,Fernanda Souza,fernanda@email.com,Roupas,"R$ 399,90",1
+272,2024/12/27,George Sauma,george@email.com,Beleza,"R$ 129,90",2
+273,2024.01.07,Helena Ranaldi,helena@email.com,Moveis,"R$ 899,00",1
+274,2024-Jan-17,Isis Valverde,isis@email.com,Alimentos,"R$ 39,90",-1
+275,2024-02-27,Jayme Matarazzo,jayme@email.com,Eletrônicos,"R$ 3.299,00",1
+276,2024/03/10,Karine Teles,karine@email.com,Livros,"R$ 59,90",1
+277,2024.04.20,Lilia Cabral,lilia@email.com,Casa,"R$ 479,90",2
+278,2024-Apr-30,Marcelo Serrado,marcelo@email.com,Esportes,"R$ 89,90",-2
+279,2024-05-11,Nanda Costa,nanda@email.com,Roupas,"R$ 149,90",1
+280,2024/06/22,Othon Bastos,othon@email.com,Beleza,"R$ 199,90",4
+281,2024.07.02,Paula Burlamaqui,paula@email.com,Moveis,"R$ 1.099,00",1
+282,2024-Jul-12,Quinzinho Neto,quinzinho@email.com,Alimentos,"R$ 69,90",-1
+283,2024-08-22,Rafaela Mandelli,rafaela@email.com,Eletrônicos,"R$ 799,90",1
+284,2024/09/03,Samantha Schmutz,samantha@email.com,Livros,"R$ 79,90",2
+285,2024.10.14,Thiago Fragoso,thiago@email.com,Casa,"R$ 259,90",1
+286,2024-Oct-24,Ursula Corona,ursula@email.com,Esportes,"R$ 129,90",-1
+287,2024-11-05,Vera Fischer,vera@email.com,Roupas,"R$ 449,90",1
+288,2024/12/16,Wagner Moura,wagner@email.com,Beleza,"R$ 59,90",3
+289,2024.12.26,Xenia Strass,xenia@email.com,Moveis,"R$ 1.499,00",1
+290,2024-Dec-06,Yara Charry,yara@email.com,Alimentos,"R$ 49,90",-2
+291,2024-01-16,Zé Carlos,zecarlos@email.com,Eletrônicos,"R$ 1.999,00",1
+292,2024/02/27,Ana Beatriz,ana@email.com,Livros,"R$ 89,90",1
+293,2024.03.09,Beto Barbosa,beto@email.com,Casa,"R$ 319,90",2
+294,2024-Mar-19,Cid Moreira,cid@email.com,Esportes,"R$ 79,90",-1
+295,2024-04-29,Diogo Nogueira,diogo@email.com,Roupas,"R$ 199,90",1
+296,2024/05/10,Elza Soares,elza@email.com,Beleza,"R$ 99,90",4
+297,2024.06.21,Fábio Júnior,fabio@email.com,Moveis,"R$ 749,90",1
+298,2024-Jun-01,Gilberto Braga,gilberto@email.com,Alimentos,"R$ 39,90",-1
+299,2024-07-11,Humberto Gessinger,humberto@email.com,Eletrônicos,"R$ 4.199,00",1
+300,2024/08/22,Inácio de Loyola,inacio@email.com,Livros,"R$ 69,90",1
+301,2024.09.02,Jorge Aragão,jorge@email.com,Casa,"R$ 179,90",3
+302,2024-Sep-12,Kiko Zambianchi,kiko@email.com,Esportes,"R$ 109,90",-2
+303,2024-10-22,Leo Jaime,leo@email.com,Roupas,"R$ 249,90",1
+304,2024/11/03,Milton Nascimento,milton@email.com,Beleza,"R$ 149,90",2
+305,2024.12.14,Nando Cordel,nando@email.com,Moveis,"R$ 899,00",1
+306,2024-Dec-24,Otto de Alencar,otto@email.com,Alimentos,"R$ 59,90",-1
+307,2024-01-04,Paulo Miklos,paulo@email.com,Eletrônicos,"R$ 599,90",1
+308,2024/02/15,Quelynah,quelynah@email.com,Livros,"R$ 79,90",1
+309,2024.03.26,Renato Teixeira,renato@email.com,Casa,"R$ 399,90",2
+310,2024-Apr-06,Sandy Leah,sandy@email.com,Esportes,"R$ 89,90",-1
+311,2024-05-17,Toni Garrido,toni@email.com,Roupas,"R$ 299,90",1
+312,2024/06/28,Ulisses Sales,ulisses@email.com,Beleza,"R$ 69,90",4
+313,2024.07.09,Victor Chaves,victor@email.com,Moveis,"R$ 1.299,00",1
+314,2024-Jul-19,Wilson Sideral,wilson@email.com,Alimentos,"R$ 49,90",-2
+315,2024-08-29,Xis,das@email.com,Eletrônicos,"R$ 2.799,00",1
+316,2024/09/10,Yuri da Cunha,yuri@email.com,Livros,"R$ 99,90",1
+317,2024.10.21,Zélia Duncan,zelia@email.com,Casa,"R$ 199,90",3
+318,2024-Oct-31,Adriana Calcanhotto,adriana@email.com,Esportes,"R$ 119,90",-1
+319,2024-11-12,Baby do Brasil,baby@email.com,Roupas,"R$ 349,90",1
+320,2024/12/23,Carlinhos Vergueiro,carlinhos@email.com,Beleza,"R$ 79,90",2
+321,2024.01.04,Djavan,djavan@email.com,Moveis,"R$ 799,00",1
+322,2024-Jan-14,Elisângela,elisangela@email.com,Alimentos,"R$ 39,90",-1
+323,2024-02-24,Fafy Siqueira,fafy@email.com,Eletrônicos,"R$ 1.499,00",1
+324,2024/03/07,Gretchen,gretchen@email.com,Livros,"R$ 59,90",2
+325,2024.04.18,Heitor Dhalia,heitor@email.com,Casa,"R$ 229,90",1
+326,2024-Apr-28,Igor de Carvalho,igor@email.com,Esportes,"R$ 99,90",-2
+327,2024-05-09,Jessica Ellen,jessica@email.com,Roupas,"R$ 179,90",1
+328,2024/06/20,Kátia Flávia,katia@email.com,Beleza,"R$ 199,90",4
+329,2024.07.01,Luísa Sonza,luisa@email.com,Moveis,"R$ 1.399,00",1
+330,2024-Jul-11,Maria Bethânia,maria@email.com,Alimentos,"R$ 69,90",-1
+331,2024-08-21,Naiara Azevedo,naiara@email.com,Eletrônicos,"R$ 899,90",1
+332,2024/09/02,Olívia Hime,olivia@email.com,Livros,"R$ 79,90",1
+333,2024.10.13,Paulo Zulu,paulo@email.com,Casa,"R$ 449,90",2
+334,2024-Oct-23,Queren Castelo Branco,queren@email.com,Esportes,"R$ 89,90",-1
+335,2024-11-04,Rogério Flausino,rogerio@email.com,Roupas,"R$ 249,90",1
+336,2024/12/15,Sabrina Sato,sabrina@email.com,Beleza,"R$ 129,90",3
+337,2024.12.25,Tânia Mara,tania@email.com,Moveis,"R$ 649,90",1
+338,2024-Dec-05,Ubaldo Neto,ubaldo@email.com,Alimentos,"R$ 49,90",-2
+339,2024-01-15,Val Marchiori,val@email.com,Eletrônicos,"R$ 3.499,00",1
+340,2024/02/26,Waleska Popozuda,waleska@email.com,Livros,"R$ 59,90",1
+341,2024.03.08,Xênia França,xenia@email.com,Casa,"R$ 179,90",2
+342,2024-Mar-18,Yan Boechat,yan@email.com,Esportes,"R$ 109,90",-1
+343,2024-04-28,Zé Ricardo,ze@email.com,Roupas,"R$ 399,90",1
+344,2024/05/09,Angélica Moura,angelica@email.com,Beleza,"R$ 89,90",4
+345,2024.06.20,Bruna Linzmeyer,bruna@email.com,Moveis,"R$ 999,00",1
+346,2024-Jun-30,César Tralli,cesar@email.com,Alimentos,"R$ 39,90",-1
+347,2024-07-11,Daniel Boaventura,daniel@email.com,Eletrônicos,"R$ 1.199,00",1
+348,2024/08/22,Edson Celulari,edson@email.com,Livros,"R$ 89,90",2
+349,2024.09.02,Fiuk,fiuk@email.com,Casa,"R$ 279,90",1
+350,2024-Sep-12,Gabriel Leone,gabriel@email.com,Esportes,"R$ 79,90",-2
+351,2024-10-22,Heloísa Périssé,heloisa@email.com,Roupas,"R$ 199,90",1
+352,2024/11/03,Ícaro Silva,icaro@email.com,Beleza,"R$ 149,90",3
+353,2024.12.14,João Vicente,joao@email.com,Moveis,"R$ 1.799,00",1
+354,2024-Dec-24,Karla Tenório,karla@email.com,Alimentos,"R$ 59,90",-1
+355,2024-01-05,Luciano Szafir,luciano@email.com,Eletrônicos,"R$ 699,90",1
+356,2024/02/16,Mariana Ximenes,mariana@email.com,Livros,"R$ 79,90",1
+357,2024.03.27,Nicolas Prattes,nicolas@email.com,Casa,"R$ 349,90",2
+358,2024-Apr-07,Oscar Filho,oscar@email.com,Esportes,"R$ 99,90",-1
+359,2024-05-18,Pedro Scooby,pedro@email.com,Roupas,"R$ 299,90",1
+360,2024/06/29,Rafael Portugal,rafael@email.com,Beleza,"R$ 69,90",4
+361,2024.07.10,Samara Felippo,samara@email.com,Moveis,"R$ 849,00",1
+362,2024-Jul-20,Tiago Abravanel,tiago@email.com,Alimentos,"R$ 49,90",-2
+363,2024-08-30,Uk,uk@email.com,Eletrônicos,"R$ 2.499,00",1
+364,2024/09/11,Vitão,vitao@email.com,Livros,"R$ 59,90",1
+365,2024.10.22,Whindersson Nunes,whindersson@email.com,Casa,"R$ 199,90",3
+366,2024-Oct-02,Xuller,xuller@email.com,Esportes,"R$ 119,90",-1
+367,2024-11-13,Yudi Tamashiro,yudi@email.com,Roupas,"R$ 179,90",1
+368,2024/12/24,Zico,zico@email.com,Beleza,"R$ 199,90",2
+369,2024.01.05,Amado Batista,amado@email.com,Moveis,"R$ 699,90",1
+370,2024-Jan-15,Bianca Bin,bianca@email.com,Alimentos,"R$ 39,90",-1
+371,2024-02-25,Cássio Gabus Mendes,cassio@email.com,Eletrônicos,"R$ 3.899,00",1
+372,2024/03/08,Débora Falabella,debora@email.com,Livros,"R$ 89,90",1
+373,2024.04.19,Emilio Orciollo Neto,emilio@email.com,Casa,"R$ 239,90",2
+374,2024-Apr-29,Fernando Fernandes,fernando@email.com,Esportes,"R$ 89,90",-2
+375,2024-05-10,Gianecchini,gianecchini@email.com,Roupas,"R$ 449,90",1
+376,2024/06/21,Hilda Rebello,hilda@email.com,Beleza,"R$ 79,90",4
+377,2024.07.02,Isabela Garcia,isabela@email.com,Moveis,"R$ 1.099,00",1
+378,2024-Jul-12,Jôse, Alimentos,"R$ 69,90",-1
+379,2024-08-22,Karlos,karlos@email.com,Eletrônicos,"R$ 499,90",1
+380,2024/09/03,Leonardo Medeiros,leonardo@email.com,Livros,"R$ 79,90",1
+381,2024.10.14,Monica Iozzi,monica@email.com,Casa,"R$ 419,90",3
+382,2024-Oct-24,Natalia Lage,natalia@email.com,Esportes,"R$ 99,90",-1
+383,2024-11-05,Otaviano Costa,otaviano@email.com,Roupas,"R$ 199,90",1
+384,2024/12/16,Paula Cohen,paula@email.com,Beleza,"R$ 149,90",2
+385,2024.12.26,Quitéria Kelly,quiteria@email.com,Moveis,"R$ 799,00",1
+386,2024-Dec-06,Rafael Vitti,rafael@email.com,Alimentos,"R$ 49,90",-1
+387,2024-01-16,Sophia Abrahão,sophia@email.com,Eletrônicos,"R$ 1.899,00",1
+388,2024/02/27,Tadeu Schmidt,tadeu@email.com,Livros,"R$ 59,90",2
+389,2024.03.09,Ursula Andress,ursula@email.com,Casa,"R$ 299,90",1
+390,2024-Mar-19,Vitorino Campos,vitorino@email.com,Esportes,"R$ 119,90",-2
+391,2024-04-29,Walderez de Barros,walderez@email.com,Roupas,"R$ 249,90",1
+392,2024/05/10,Xênia Bier,xenia@email.com,Beleza,"R$ 89,90",4
+393,2024.06.21,Yoná,yona@email.com,Moveis,"R$ 1.499,00",1
+394,2024-Jun-01,Zanoni,zanoni@email.com,Alimentos,"R$ 39,90",-1
+395,2024-07-11,Arlete Salles,arlete@email.com,Eletrônicos,"R$ 699,90",1
+396,2024/08/22,Beto Silva,beto@email.com,Livros,"R$ 79,90",1
+397,2024.09.02,Chay Suede,chay@email.com,Casa,"R$ 359,90",2
+398,2024-Sep-12,Daniel Rangel,daniel@email.com,Esportes,"R$ 89,90",-1
+399,2024-10-22,Eliane Giardini,eliane@email.com,Roupas,"R$ 399,90",1
+400,2024/11/03,Fúlvio Stefanini,fulvio@email.com,Beleza,"R$ 69,90",3
+401,2024.12.14,Guilherme Fontes,guilherme@email.com,Moveis,"R$ 949,00",1
+402,2024-Dec-24,Hugo Bonemer,hugo@email.com,Alimentos,"R$ 59,90",-2
+403,2024-01-05,Ítalo Rossi,italo@email.com,Eletrônicos,"R$ 2.199,00",1
+404,2024/02/16,Joaquim Lopes,joaquim@email.com,Livros,"R$ 89,90",1
+405,2024.03.27,Kevinho,kevinho@email.com,Casa,"R$ 199,90",2
+406,2024-Apr-07,Luciana Paes,luciana@email.com,Esportes,"R$ 79,90",-1
+407,2024-05-18,Marcos Pitombo,marcos@email.com,Roupas,"R$ 299,90",1
+408,2024/06/29,Nívea Maria,nivea@email.com,Beleza,"R$ 179,90",4
+409,2024.07.10,Osmar Prado,osmar@email.com,Moveis,"R$ 649,90",1
+410,2024-Jul-20,Paulo Goulart,paulo@email.com,Alimentos,"R$ 49,90",-1
+411,2024-08-30,Quim Roscas,quim@email.com,Eletrônicos,"R$ 899,90",1
+412,2024/09/11,Rayanne Morais,rayanne@email.com,Livros,"R$ 59,90",2
+413,2024.10.22,Simone Gutierrez,simone@email.com,Casa,"R$ 279,90",1
+414,2024-Oct-02,Tato,tato@email.com,Esportes,"R$ 109,90",-2
+415,2024-11-13,Ursula Cruz,ursula@email.com,Roupas,"R$ 199,90",1
+416,2024/12/24,Vitor Fadul,vitor@email.com,Beleza,"R$ 129,90",3
+417,2024.12.04,Waldineia,valdineia@email.com,Moveis,"R$ 899,00",1
+418,2024-Dec-14,Xande de Pilares,xande@email.com,Alimentos,"R$ 39,90",-1
+419,2024-01-24,Yuri Marçal,yuri@email.com,Eletrônicos,"R$ 3.299,00",1
+420,2024/02/05,Zezé de Camargo,zeze@email.com,Livros,"R$ 79,90",1
+421,2024.03.16,Alinne Moraes,alinne@email.com,Casa,"R$ 399,90",2
+422,2024-Mar-26,Bruno De Luca,bruno@email.com,Esportes,"R$ 89,90",-1
+423,2024-04-06,Carlos Alberto de Nóbrega,carlos@email.com,Roupas,"R$ 149,90",1
+424,2024/05/17,Danton Mello,danton@email.com,Beleza,"R$ 199,90",4
+425,2024.06.28,Eddie,eddie@email.com,Moveis,"R$ 1.199,00",1
+426,2024-Jun-08,Felipe Titto,felipe@email.com,Alimentos,"R$ 59,90",-2
+427,2024-07-18,Gigi Gigliotti,gigi@email.com,Eletrônicos,"R$ 499,90",1
+428,2024/08/29,Helô Pinheiro,helo@email.com,Livros,"R$ 69,90",1
+429,2024.09.09,Isabela Boscov,isabela@email.com,Casa,"R$ 219,90",3
+430,2024-Sep-19,João Baldasserini,joao@email.com,Esportes,"R$ 99,90",-1
+431,2024-10-29,Keyla Brasil,keyla@email.com,Roupas,"R$ 349,90",1
+432,2024/11/01,Luigi Baricelli,luigi@email.com,Beleza,"R$ 79,90",2
+433,2024.12.12,Maitê Proença,maite@email.com,Moveis,"R$ 1.699,00",1
+434,2024-Dec-22,Nando Cunha,nando@email.com,Alimentos,"R$ 49,90",-1
+435,2024-01-02,Otoniel,otoniel@email.com,Eletrônicos,"R$ 799,90",1
+436,2024/02/13,Patricia França,patricia@email.com,Livros,"R$ 89,90",1
+437,2024.03.24,Queren do Instagram,queren@email.com,Casa,"R$ 179,90",2
+438,2024-Apr-04,Ricardo Tozzi,ricardo@email.com,Esportes,"R$ 119,90",-2
+439,2024-05-15,Sandra Pêra,sandra@email.com,Roupas,"R$ 249,90",1
+440,2024/06/26,Tarcísio Filho,tarcisio@email.com,Beleza,"R$ 99,90",4
+441,2024.07.07,Ubiraci,ubiraci@email.com,Moveis,"R$ 749,90",1
+442,2024-Jul-17,Valquíria,valquiria@email.com,Alimentos,"R$ 39,90",-1
+443,2024-08-27,Wagner Bello,wagner@email.com,Eletrônicos,"R$ 1.999,00",1
+444,2024/09/08,Xuxu,xuxu@email.com,Livros,"R$ 59,90",1
+445,2024.10.19,Yami,yami@email.com,Casa,"R$ 319,90",3
+446,2024-Oct-29,Zumira,zumira@email.com,Esportes,"R$ 89,90",-1
+447,2024-11-10,André Gonçalves,andre@email.com,Roupas,"R$ 299,90",1
+448,2024/12/21,Berta Loran,berta@email.com,Beleza,"R$ 149,90",2
+449,2024.12.31,Cacau Melo,cacau@email.com,Moveis,"R$ 899,00",1
+450,2024-Dec-11,Dado Villa-Lobos,dado@email.com,Alimentos,"R$ 59,90",-1
+451,2024-01-21,Edu,edu@email.com,Eletrônicos,"R$ 2.899,00",1
+452,2024/02/02,Fátima, fatima@email.com,Livros,"R$ 79,90",2
+453,2024.03.13,Gilmelândia,gilmelandia@email.com,Casa,"R$ 199,90",1
+454,2024-Mar-23,Henri Castelli,henri@email.com,Esportes,"R$ 109,90",-2
+455,2024-04-03,Isabella Santoni,isabella@email.com,Roupas,"R$ 399,90",1
+456,2024/05/14,Jairzinho,jairzinho@email.com,Beleza,"R$ 69,90",4
+457,2024.06.25,Kleber de Oliveira,kleber@email.com,Moveis,"R$ 1.099,00",1
+458,2024-Jun-05,Larissa Manoela,larissa@email.com,Alimentos,"R$ 49,90",-1
+459,2024-07-15,Marcelo Mello,marcelo@email.com,Eletrônicos,"R$ 599,90",1
+460,2024/08/26,Nelson Rubens,nelson@email.com,Livros,"R$ 89,90",1
+461,2024.09.06,Olívia Araujo,olivia@email.com,Casa,"R$ 449,90",2
+462,2024-Sep-16,Paulo Vilhena,paulo@email.com,Esportes,"R$ 79,90",-1
+463,2024-10-26,Quiteria Chagas,quiteria@email.com,Roupas,"R$ 179,90",1
+464,2024/11/07,Renata Ceribelli,renata@email.com,Beleza,"R$ 199,90",3
+465,2024.12.18,Sérgio Loroza,sergio@email.com,Moveis,"R$ 799,00",1
+466,2024-Dec-28,Tania Bondezan,tania@email.com,Alimentos,"R$ 39,90",-2
+467,2024-01-08,Ubaldino,ubaldino@email.com,Eletrônicos,"R$ 1.399,00",1
+468,2024/02/19,Valéria,das@email.com,Livros,"R$ 59,90",1
+469,2024.03.01,Waltinho,waltinho@email.com,Casa,"R$ 259,90",2
+470,2024-Mar-11,Xepa,xepa@email.com,Esportes,"R$ 129,90",-1
+471,2024-04-21,Yohanna,yohanna@email.com,Roupas,"R$ 349,90",1
+472,2024/05/02,Zuleika,zuleika@email.com,Beleza,"R$ 89,90",4
+473,2024.06.13,Alexandre Borges,alexandre@email.com,Moveis,"R$ 1.299,00",1
+474,2024-Jun-23,Bernadete,bernadete@email.com,Alimentos,"R$ 69,90",-1
+475,2024-07-03,Camila Pitanga,camila@email.com,Eletrônicos,"R$ 899,90",1
+476,2024/08/14,Diogo Almeida,diogo@email.com,Livros,"R$ 79,90",2
+477,2024.09.25,Elenco,elenco@email.com,Casa,"R$ 199,90",1
+478,2024-Sep-05,Fernanda Young,fernanda@email.com,Esportes,"R$ 99,90",-2
+479,2024-10-15,Gilvan,gilvan@email.com,Roupas,"R$ 249,90",1
+480,2024/11/26,Helder,helder@email.com,Beleza,"R$ 149,90",3
+481,2024.12.07,Ivan,ivan@email.com,Moveis,"R$ 949,00",1
+482,2024-Dec-17,Jamile,jamile@email.com,Alimentos,"R$ 49,90",-1
+483,2024-01-27,Kelly,kelly@email.com,Eletrônicos,"R$ 2.499,00",1
+484,2024/02/08,Leila,leila@email.com,Livros,"R$ 89,90",1
+485,2024.03.19,Marcela,marcela@email.com,Casa,"R$ 379,90",2
+486,2024-Mar-29,Natan,natan@email.com,Esportes,"R$ 89,90",-1
+487,2024-04-09,Odilon,odilon@email.com,Roupas,"R$ 199,90",1
+488,2024/05/20,Priscila,priscila@email.com,Beleza,"R$ 79,90",4
+489,2024.06.01,Raul,raul@email.com,Moveis,"R$ 1.499,00",1
+490,2024-Jun-11,Silmara,silmara@email.com,Alimentos,"R$ 59,90",-2
+491,2024-07-21,Thiago,thiago@email.com,Eletrônicos,"R$ 699,90",1
+492,2024/08/02,Ursula,ursula@email.com,Livros,"R$ 69,90",1
+493,2024.09.13,Virgínia,virginia@email.com,Casa,"R$ 299,90",3
+494,2024-Sep-23,Washington,washington@email.com,Esportes,"R$ 119,90",-1
+495,2024-10-04,Xênia,",Roupas,"R$ 449,90",1
+496,2024/10/15,Yuri,yuri@email.com,Beleza,"R$ 99,90",2
+497,2024.11.26,Zilda,zilda@email.com,Moveis,"R$ 799,00",1
+498,2024-Nov-06,Alex,alex@email.com,Alimentos,"R$ 39,90",-1
+499,2024-12-16,Bruno,bruno@email.com,Eletrônicos,"R$ 1.099,00",1
+500,2024/12/27,Carla,carla@email.com,Livros,"R$ 59,90",1
