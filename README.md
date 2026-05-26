@@ -52,8 +52,6 @@ Projeto de análise de dados completo onde simulei um cenário real de e-commerc
 - **Categoria mais vendida:** Eletrônicos 
 - **Faturamento Total:** R$ 294,49 MIL
 - **Ticket médio:** R$ 589,99
-
-> *Preencha com os dados reais do seu dashboard*
 ---
 
 ## 🚀 Como Reproduzir
